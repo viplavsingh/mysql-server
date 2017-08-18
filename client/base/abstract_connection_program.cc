@@ -16,9 +16,7 @@
 */
 
 #include "abstract_connection_program.h"
-
 using namespace Mysql::Tools::Base;
-
 
 Abstract_connection_program::Abstract_connection_program()
   : m_connection_options(this)
