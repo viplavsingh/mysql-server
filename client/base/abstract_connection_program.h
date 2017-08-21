@@ -17,10 +17,8 @@
 
 #ifndef ABSTRACT_CONNECTION_PROGRAM_INCLUDED
 #define ABSTRACT_CONNECTION_PROGRAM_INCLUDED
-
 #include "client_priv.h"
 #include <string>
-
 #include "i_options_provider.h"
 #include "composite_options_provider.h"
 #include "mysql_connection_options.h"
