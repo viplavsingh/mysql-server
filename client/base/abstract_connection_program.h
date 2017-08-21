@@ -40,6 +40,7 @@ public:
     Provides new connection to MySQL database server based on option values.
     Implementation of I_connection_factory interface.
    */
+  
   virtual MYSQL* create_connection();
 
   /**
